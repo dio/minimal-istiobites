@@ -1,0 +1,10 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.6.0",
+    "inquirer": "^6.2.1"
+  }
+}
